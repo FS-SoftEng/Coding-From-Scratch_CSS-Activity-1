@@ -1,0 +1,20 @@
+div
+{
+    padding: 25px 15px 30px 20px;
+    background-color: #b633ff;
+    color: white; 
+}
+
+form 
+{
+    border: 5px solid black; 
+    padding: 75px;
+    margin-right: 600px;
+    margin-bottom: 150px;
+    float: right;
+}
+
+a:hover 
+{
+    color: #00e1ff;
+}
